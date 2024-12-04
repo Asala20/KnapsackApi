@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
-      "PackagePath": "staticwebassets\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg"
-    },
-    {
-      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css",
-      "PackagePath": "staticwebassets\\assest\\style.css"
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "PackagePath": "staticwebassets\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg"
     },
     {
       "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
@@ -15,6 +11,10 @@
     {
       "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
       "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.KnapsackApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

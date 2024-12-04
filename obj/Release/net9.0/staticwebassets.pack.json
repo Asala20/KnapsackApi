@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "PackagePath": "staticwebassets\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.KnapsackApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.KnapsackApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.KnapsackApi.props",
+      "PackagePath": "build\\KnapsackApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.KnapsackApi.props",
+      "PackagePath": "buildMultiTargeting\\KnapsackApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.KnapsackApi.props",
+      "PackagePath": "buildTransitive\\KnapsackApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

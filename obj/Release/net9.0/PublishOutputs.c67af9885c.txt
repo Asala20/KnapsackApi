@@ -1,0 +1,9 @@
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\KnapsackApi.exe
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\appsettings.Development.json
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\appsettings.json
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\KnapsackApi.dll
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\KnapsackApi.deps.json
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\KnapsackApi.runtimeconfig.json
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\KnapsackApi.pdb
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PCMAX\Desktop\BIA\KnapsackApi\publish\Microsoft.OpenApi.dll
