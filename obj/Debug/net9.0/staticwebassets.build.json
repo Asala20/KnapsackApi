@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "Hash": "4+iQDzXM6iHE2xNw8rHPDZTJGL8C93/4KYHX4cTyoq4=",
+  "Source": "KnapsackApi",
+  "BasePath": "_content/KnapsackApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KnapsackApi\\wwwroot",
+      "Source": "KnapsackApi",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\",
+      "BasePath": "_content/KnapsackApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\1eplndd6te-uhgrkg8qpi.gz",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "index#[.{fingerprint=uhgrkg8qpi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0gct5si9ys",
+      "Integrity": "wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\9wmee3koar-1px2mh8hnx.gz",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "script#[.{fingerprint=1px2mh8hnx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nxvatmena1",
+      "Integrity": "K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\bqko51gqm9-g8icyl1yig.gz",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "assest/style#[.{fingerprint=g8icyl1yig}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9webfx4gfn",
+      "Integrity": "1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "assest/futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2onpscz2en",
+      "Integrity": "7r86zF1jRjiaJbTmTEHZ1DawSwvh//rjoHd6qEWuy9g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "assest/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g8icyl1yig",
+      "Integrity": "UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assest\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uhgrkg8qpi",
+      "Integrity": "QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
+      "SourceId": "KnapsackApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\",
+      "BasePath": "_content/KnapsackApi",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1px2mh8hnx",
+      "Integrity": "624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assest/futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.2onpscz2en.jpg",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6243303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7r86zF1jRjiaJbTmTEHZ1DawSwvh//rjoHd6qEWuy9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 21:06:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2onpscz2en"
+        },
+        {
+          "Name": "label",
+          "Value": "assest/futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7r86zF1jRjiaJbTmTEHZ1DawSwvh//rjoHd6qEWuy9g="
+        }
+      ]
+    },
+    {
+      "Route": "assest/futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\futuristic-architecture-reflects-modern-design-vibrant-city-generated-by-ai.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6243303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7r86zF1jRjiaJbTmTEHZ1DawSwvh//rjoHd6qEWuy9g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 21:06:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7r86zF1jRjiaJbTmTEHZ1DawSwvh//rjoHd6qEWuy9g="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.css",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\bqko51gqm9-g8icyl1yig.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001132502831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.css",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.css.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\bqko51gqm9-g8icyl1yig.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.g8icyl1yig.css",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\bqko51gqm9-g8icyl1yig.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001132502831"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8icyl1yig"
+        },
+        {
+          "Name": "label",
+          "Value": "assest/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.g8icyl1yig.css",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\assest\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8icyl1yig"
+        },
+        {
+          "Name": "label",
+          "Value": "assest/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UE1FLsWQAq1ZVhfd3JaAb+UsOaF0ws++eQLoHgReDVY="
+        }
+      ]
+    },
+    {
+      "Route": "assest/style.g8icyl1yig.css.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\bqko51gqm9-g8icyl1yig.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 12:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g8icyl1yig"
+        },
+        {
+          "Name": "label",
+          "Value": "assest/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1wwdHpqCf+DrlZwXOs0E7xkRoBuLVjodlP8AmgRiZ7U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\1eplndd6te-uhgrkg8qpi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\1eplndd6te-uhgrkg8qpi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k="
+        }
+      ]
+    },
+    {
+      "Route": "index.uhgrkg8qpi.html",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\1eplndd6te-uhgrkg8qpi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001945525292"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhgrkg8qpi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs="
+        }
+      ]
+    },
+    {
+      "Route": "index.uhgrkg8qpi.html",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhgrkg8qpi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmBazO/tX8hysvHBK8KEWZmVF4isJ9E8/MgBl60Gtjs="
+        }
+      ]
+    },
+    {
+      "Route": "index.uhgrkg8qpi.html.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\1eplndd6te-uhgrkg8qpi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:54:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uhgrkg8qpi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wKYvRZTdzKHLuruTiABvdnVzWhKE1/Hfg8aZs4bCP3k="
+        }
+      ]
+    },
+    {
+      "Route": "script.1px2mh8hnx.js",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\9wmee3koar-1px2mh8hnx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000707714084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1412"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1px2mh8hnx"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM="
+        }
+      ]
+    },
+    {
+      "Route": "script.1px2mh8hnx.js",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1px2mh8hnx"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM="
+        }
+      ]
+    },
+    {
+      "Route": "script.1px2mh8hnx.js.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\9wmee3koar-1px2mh8hnx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1px2mh8hnx"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\9wmee3koar-1px2mh8hnx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000707714084"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1412"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3625"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-624fQC5A+Y+3hP/08XkmlHy9y2opXVQXl9tsDyWeLAM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\PCMAX\\Desktop\\BIA\\KnapsackApi\\obj\\Debug\\net9.0\\compressed\\9wmee3koar-1px2mh8hnx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 11:51:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7Vx6Jd5MRYj1JKuWbgnuHuI2yDzEkiLlMiGxCcIwyE="
+        }
+      ]
+    }
+  ]
+}
